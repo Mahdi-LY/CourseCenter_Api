@@ -1,0 +1,20 @@
+{
+  "name": "coursecenter_api",
+  "version": "1.0.0",
+  "description": "This API for youthCenter (CourseCenter) for flutter app",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "YouCan"
+  ],
+  "author": "YouCan",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.1"
+  }
+}
