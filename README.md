@@ -1,5 +1,9 @@
 # Nodejs-MySQL-Express-REST-API-Authentication-with-JWT
 
+in the command run following line:
+npm install express jsonwebtoken bcryptjs dotenv mysql bcrypt
+
+
 This is a simple Nodejs-MySQL-Express REST API for user authentication with Json Web Token
 
 Add User - 
