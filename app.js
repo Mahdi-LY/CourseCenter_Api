@@ -8,10 +8,19 @@ app.use(express.json())
 
 app.use('/api/users', userRouter)
 
-app.listen(process.env.PORT || 3000, () =>
+app.listen(process.env.PORT, () =>
 {
   console.log('server up and running')
 })
+
+
+
+
+
+
+
+
+
 
 // db.connect()
 //   .then(() => {
